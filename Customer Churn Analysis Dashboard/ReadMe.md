@@ -1,6 +1,6 @@
 # Customer Churn Analysis Dashboard  
 
-![Dashboard Banner](# )  
+  
 
 ## 📊 Overview  
 The **Customer Churn Analysis Dashboard** is a Power BI project aimed at understanding customer retention and identifying patterns that lead to churn. This dashboard empowers businesses to implement effective strategies to reduce churn rates and enhance customer satisfaction.  
