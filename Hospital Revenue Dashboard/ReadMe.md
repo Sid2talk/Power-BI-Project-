@@ -1,6 +1,8 @@
 
 # Hospitality Revenue Analysis Dashboard  
 
+![Hospitality Daashboad 1](https://github.com/user-attachments/assets/75ab6d48-cd6e-4186-afc9-06b970165e3c)
+![Hospitality Daashboad 2](https://github.com/user-attachments/assets/b7b666c7-0144-409c-a884-2634dba1362a)
 
 ## 📊 Overview  
 The **Hospitality Revenue Analysis Dashboard** is a Power BI project designed to provide actionable insights into the performance of the hospitality industry. The dashboard enables users to monitor key metrics like revenue, occupancy rates, customer segments, and booking trends to support data-driven decision-making.  
@@ -68,19 +70,25 @@ The **Hospitality Revenue Analysis Dashboard** is a Power BI project designed to
 ---
 
 ## 📝 Insights Derived  
-1. Peak occupancy periods align with specific seasons and holidays.  
-2. Online Travel Agencies contribute significantly to revenue but at higher costs.  
-3. Business travelers exhibit consistent booking behavior, driving weekday occupancy.  
-4. Room upgrades and cross-selling (F&B) are key opportunities for revenue growth.  
+**1. Revenue Highlights:**
+Total revenue is 1.71B, with Atliq Exotica (320M) and Atliq Palace (304M) as the top-performing properties.
+Luxury room categories contribute the most revenue (1.053B), emphasizing a strong market for high-end services.
+
+**2. Occupancy Trends:**
+The average occupancy rate is 57.9%, with top-performing properties like Atliq Grands (Delhi) and Atliq Exotica (Mumbai) achieving over 65%.
+Bangalore properties underperform in occupancy and need better marketing and strategies.
+
+**3. Customer Behavior:**
+The cancellation rate is high at 24.8%, with notable impacts on revenue. Flexible policies and targeted customer engagement could mitigate this.
+Weekend ratings are slightly lower (3.4-3.8) than weekdays, indicating a need for improved weekend experiences or promotions.
+
+**4. Platform Performance:**
+MakeYourTrip leads in revenue (699.35M) and RevPAR (1,465.48) among booking platforms, which is critical in business growth.
+
+**5. Property Insights:**
+Atliq Exotica and Atliq Palace in Mumbai are consistently top-rated (4.32) and high-revenue earners, offering benchmarks for other properties.
+Atliq Seasons performs the lowest (66M revenue), suggesting pricing, marketing, or service optimization opportunities. 
 
 ---
 
-## 📂 Project Structure  
-```plaintext  
-Hospitality_Revenue_Analysis/  
-├── Data/  
-│   ├── bookings.csv  
-│   ├── revenue.xlsx  
-├── Dashboard/  
-│   ├── Hospitality_Revenue.pbix  
-├── README.md  
+
